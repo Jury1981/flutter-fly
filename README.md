@@ -2,7 +2,7 @@
   
 
   <p align="center">
-    <img src="https://github.com/jamalihassan0307/flutter-fly/blob/main/gif/demo.gif?raw=true" alt="Flutter Fly Demo" width="800" autoplay loop/>
+    <img src="https://github.com/Jury1981/flutter-fly/blob/main/gif/demo.gif?raw=true" alt="Flutter Fly Demo" width="800" autoplay loop/>
   </p>
   
   <h1>🚀 Flutter Fly 🚀</h1>
@@ -71,35 +71,35 @@
   <table style="width:100%">
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/refs/heads/main//gif/wireless-connection.gif?raw=true" alt="Wireless Connection" style="width:100%"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/refs/heads/main/gif/wireless-connection.gif?raw=true" alt="Wireless Connection" style="width:100%"/>
         <br>
         <strong>Wireless Device Connection</strong>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/gif/setup_guide.gif" alt="Setup Guide" style="width:100%"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/gif/setup_guide.gif" alt="Setup Guide" style="width:100%"/>
         <br>
         <strong>Device Setup Guide</strong>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/refs/heads/main//gif/apk-installation.gif?raw=true" alt="APK Installation" style="width:100%"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/refs/heads/main/gif/apk-installation.gif?raw=true" alt="APK Installation" style="width:100%"/>
         <br>
         <strong>APK Installation</strong>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/refs/heads/main//gif/flutter-run.gif?raw=true" alt="Flutter Run" style="width:100%"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/refs/heads/main/gif/flutter-run.gif?raw=true" alt="Flutter Run" style="width:100%"/>
         <br>
         <strong>Flutter Run & Hot Reload</strong>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/refs/heads/main//gif/build-aab.gif?raw=true" alt="Build AAB" style="width:100%"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/refs/heads/main/gif/build-aab.gif?raw=true" alt="Build AAB" style="width:100%"/>
         <br>
         <strong>Build App Bundle (AAB)</strong>
       </td>
@@ -121,68 +121,68 @@ Flutter Fly now includes a comprehensive troubleshooting guide that helps you se
   <table style="width:100%">
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/open_setting_page.jpg" alt="Open Settings" style="width:200px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/open_setting_page.jpg" alt="Open Settings" style="width:200px"/>
         <br>
         <strong>Step 1: Open Device Settings</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/open_about.jpg" alt="About Phone" style="width:200px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/open_about.jpg" alt="About Phone" style="width:200px"/>
         <br>
         <strong>Step 2: Go to About Phone</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/open_system_management.jpg" alt="System Management" style="width:200px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/open_system_management.jpg" alt="System Management" style="width:200px"/>
         <br>
         <strong>Step 3: Open System Management</strong>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/open_softwere_information.jpg" alt="Software Information" style="width:200px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/open_softwere_information.jpg" alt="Software Information" style="width:200px"/>
         <br>
         <strong>Step 4: Software Information</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/clik_on_build_number.jpg" alt="Build Number" style="width:200px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/clik_on_build_number.jpg" alt="Build Number" style="width:200px"/>
         <br>
         <strong>Step 5: Tap Build Number 7 Times</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/1_step_to_develper.jpg" alt="Developer Options" style="width:200px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/1_step_to_develper.jpg" alt="Developer Options" style="width:200px"/>
         <br>
         <strong>Step 6: Access Developer Options</strong>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/develper_option.jpg" alt="Enable Developer Options" style="width:200px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/develper_option.jpg" alt="Enable Developer Options" style="width:200px"/>
         <br>
         <strong>Step 7: Enable Developer Options</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/develper_setting_enabled.jpg" alt="USB Debugging" style="width:200px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/develper_setting_enabled.jpg" alt="USB Debugging" style="width:200px"/>
         <br>
         <strong>Step 8: Enable USB Debugging</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/usb_wireless_enabled.jpg" alt="Wireless Debugging" style="width:200px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/usb_wireless_enabled.jpg" alt="Wireless Debugging" style="width:200px"/>
         <br>
         <strong>Step 9: Enable Wireless Debugging</strong>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/usb_wireless_button.jpg" alt="USB First Time" style="width:200px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/usb_wireless_button.jpg" alt="USB First Time" style="width:200px"/>
         <br>
         <strong>Step 10: Connect USB First Time</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/Screenshot_20251021_070602.jpg" alt="Wireless Connection" style="width:200px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/Screenshot_20251021_070602.jpg" alt="Wireless Connection" style="width:200px"/>
         <br>
         <strong>Step 11: Wireless Connection</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/usb_wireless_enabled.jpg" alt="Test Connection" style="width:200px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/usb_wireless_enabled.jpg" alt="Test Connection" style="width:200px"/>
         <br>
         <strong>Step 12: Test Connection Success</strong>
       </td>
@@ -196,17 +196,17 @@ Flutter Fly now includes a comprehensive troubleshooting guide that helps you se
   <table style="width:100%">
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/important_steps.png" alt="Important Steps" style="width:300px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/important_steps.png" alt="Important Steps" style="width:300px"/>
         <br>
         <strong>Important Setup Steps</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/penal_pic.png" alt="Panel Interface" style="width:300px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/penal_pic.png" alt="Panel Interface" style="width:300px"/>
         <br>
         <strong>Main Panel Interface</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/penal_pic1.png" alt="Panel Features" style="width:300px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/penal_pic1.png" alt="Panel Features" style="width:300px"/>
         <br>
         <strong>Panel Features</strong>
       </td>
@@ -345,17 +345,17 @@ Flutter Fly now includes a comprehensive troubleshooting guide that automaticall
   <table style="width:100%">
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/open_setting_page.jpg" alt="Open Settings" style="width:200px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/open_setting_page.jpg" alt="Open Settings" style="width:200px"/>
         <br>
         <strong>Step 1: Open Device Settings</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/clik_on_build_number.jpg" alt="Enable Developer Options" style="width:200px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/clik_on_build_number.jpg" alt="Enable Developer Options" style="width:200px"/>
         <br>
         <strong>Step 5: Tap Build Number 7 Times</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots/usb_wireless_enabled.jpg" alt="Enable Wireless Debugging" style="width:200px"/>
+        <img src="https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots/usb_wireless_enabled.jpg" alt="Enable Wireless Debugging" style="width:200px"/>
         <br>
         <strong>Step 9: Enable Wireless Debugging</strong>
       </td>
@@ -439,9 +439,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Support
 
-- **GitHub Issues:** [Report bugs or request features](https://github.com/jamalihassan0307/flutter-fly/issues)
-- **Discussions:** [Join the community](https://github.com/jamalihassan0307/flutter-fly/discussions)
-- **Documentation:** [Read the docs](https://github.com/jamalihassan0307/flutter-fly#readme)
+- **GitHub Issues:** [Report bugs or request features](https://github.com/Jury1981/flutter-fly/issues)
+- **Discussions:** [Join the community](https://github.com/Jury1981/flutter-fly/discussions)
+- **Documentation:** [Read the docs](https://github.com/Jury1981/flutter-fly#readme)
 
 ---
 
