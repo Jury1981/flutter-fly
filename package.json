@@ -102,7 +102,7 @@
     "viewsWelcome": [
       {
         "view": "flutter-fly-panel",
-        "contents": "Welcome to Flutter Fly!\n\nYour ultimate Flutter development companion for wireless debugging, building, and running Flutter apps.\n\nQuick Actions:\n\n[🎯 Open Main Panel](command:flutterFly.openFlutterPanel)\n[📱 Connect Device](command:flutterFly.connectWirelessDevice)\n[� Device Setup Guide](command:flutterFly.showTroubleshootingGuide)\n[�📦 Get Packages](command:flutterFly.getPackages)\n[🧹 Clean Project](command:flutterFly.cleanProject)\n\n[⭐ Rate on Marketplace](https://marketplace.visualstudio.com/search?term=flutter%20fly&target=VSCode&category=All%20categories&sortBy=Relevance)\n[🐙 View on GitHub](https://github.com/Jury1981/flutter-fly)\n[👨‍💻 Original Author](https://jamalihassan0307.github.io/portfolio.github.io/#!/)",
+        "contents": "Welcome to Flutter Fly!\n\nYour ultimate Flutter development companion for wireless debugging, building, and running Flutter apps.\n\nQuick Actions:\n\n[🎯 Open Main Panel](command:flutterFly.openFlutterPanel)\n[📱 Connect Device](command:flutterFly.connectWirelessDevice)\n[� Device Setup Guide](command:flutterFly.showTroubleshootingGuide)\n[�📦 Get Packages](command:flutterFly.getPackages)\n[🧹 Clean Project](command:flutterFly.cleanProject)\n\n[⭐ Rate on Marketplace](https://marketplace.visualstudio.com/search?term=flutter%20fly&target=VSCode&category=All%20categories&sortBy=Relevance)\n[🐙 View on GitHub](https://github.com/Jury1981/flutter-fly)\n\n**Original Author:** [Jam Ali Hassan](https://github.com/jamalihassan0307) | [Portfolio](https://jamalihassan0307.github.io/portfolio.github.io/#!/) | [LinkedIn](https://www.linkedin.com/in/jamalihassan0307)",
         "when": "workspaceHasFlutterProject"
       }
     ],
