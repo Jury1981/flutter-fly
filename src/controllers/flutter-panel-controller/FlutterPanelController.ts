@@ -969,7 +969,7 @@ export class FlutterPanelController extends ADBBaseController {
 
   private getTroubleshootingContent(panel: vscode.WebviewPanel): string {
     // Use GitHub raw URLs for screenshots to ensure they load in published extension
-    const baseUrl = 'https://raw.githubusercontent.com/jamalihassan0307/flutter-fly/main/screenshots';
+    const baseUrl = 'https://raw.githubusercontent.com/Jury1981/flutter-fly/main/screenshots';
     const mediaPath = path.join(this.context.extensionPath, 'media');
     
     const screenshots = {
