@@ -1,3 +1,3 @@
 export interface INetHelpers {
-  FindLanDevices(): Promise<Array<string>>
+  FindLanDevices(skipNameResolution?: boolean): Promise<Array<string>>
 }
