@@ -62,7 +62,7 @@
   "dependencies": {
     "adm-zip": "^0.4.14",
     "diff": ">=3.5.0",
-    "local-devices": "^3.0.0"
+    "local-devices": "^4.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
